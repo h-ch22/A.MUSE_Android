@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">A.MUSE</string>
+    <string name="TXT_ALERT_TITLE_OF_EMPTY_FIELD">공백 필드</string>
+    <string name="TXT_ALERT_MESSAGE_OF_EMPTY_FIELD">모든 필드를 입력해주세요.</string>
+    <string name="TXT_ALERT_TITLE_OF_ACCOUNT_DOES_NOT_EXISTS">존재하지 않는 계정</string>
+    <string name="TXT_ALERT_MESSAGE_OF_ACCOUNT_DOES_NOT_EXISTS">일치하는 계정을 찾을 수 없습니다. 입력한 정보 또는 네트워크 상태를 확인한 후 다시 시도하십시오.</string>
+    <string name="TXT_ALERT_TITLE_OF_INVALID_EMAIL_TYPE">잘못된 E-Mail 형식</string>
+    <string name="TXT_ALERT_MESSAGE_OF_INVALID_EMAIL_TYPE">올바른 형식의 E-Mail을 입력해주십시오.</string>
+    <string name="TXT_ALERT_TITLE_OF_WEAK_PASSWORD">위험한 비밀번호</string>
+    <string name="TXT_ALERT_MESSAGE_OF_WEAK_PASSWORD">보안을 위해 8자리 이상의 비밀번호를 입력하십시오.</string>
+    <string name="TXT_ALERT_TITLE_OF_PASSWORD_MISMATCH">비밀번호 불일치</string>
+    <string name="TXT_ALERT_MESSAGE_OF_PASSWORD_MISMATCH">비밀번호와 비밀번호 확인이 일치하지 않습니다.</string>
+    <string name="TXT_ALERT_TITLE_OF_LICENSE_NOT_ACCEPTED">약관 동의 필요</string>
+    <string name="TXT_ALERT_MESSAGE_OF_LICENSE_NOT_ACCEPTED">모든 약관을 읽고 동의해주십시오.</string>
+    <string name="TXT_ALERT_MESSAGE_OF_SIGN_UP_ERROR">회원가입 중 오류가 발생했습니다. 이미 가입한 E-Mail인지 확인하거나, 네트워크 상태를 확인한 후 다시 시도하십시오.</string>
+    <string name="TXT_ALERT_MESSAGE_OF_SIGN_IN_ERROR">로그인 중 오류가 발생했습니다. 입력한 정보를 확인하거나, 네트워크 상태를 확인한 후 다시 시도하십시오.</string>
+    <string name="TXT_ALERT_MESSAGE_OF_SENT_PASSWORD_RESET_MAIL">입력한 E-Mail로 비밀번호 재설정 메일이 발송되었습니다.</string>
+    <string name="TXT_DONE">완료</string>
+    <string name="TXT_ERROR">에러</string>
+    <string name="TXT_EMAIL">E-Mail</string>
+    <string name="TXT_PASSWORD">비밀번호</string>
+    <string name="TXT_SIGN_IN">Sign In</string>
+    <string name="TXT_RESET_PASSWORD">Reset Password</string>
+    <string name="TXT_SIGN_UP">Sign Up</string>
+    <string name="TXT_PASSWORD_VERIFICATION">비밀번호 확인</string>
+    <string name="TXT_COPYRIGHT_INFORMATION">ⓒ2024 Changjin Ha, Jisoo Park, Hwaram Park.\nAll Rights Reserved.</string>
+    <string name="TXT_NAME">이름</string>
+    <string name="TXT_NICK_NAME">닉네임</string>
+    <string name="TXT_PHONE">전화번호</string>
+    <string name="TXT_BIRTHDAY">생년월일</string>
+    <string name="TXT_BIRTHDAY_NOT_SELECTED">생년월일 선택</string>
+    <string name="TXT_OK">확인</string>
+    <string name="TXT_CANCEL">취소</string>
+    <string name="TXT_YES">예</string>
+    <string name="TXT_NO">아니오</string>
+    <string name="TXT_READ">읽기</string>
+    <string name="TXT_ACCEPT_EULA">최종 사용권 계약서</string>
+    <string name="TXT_ACCEPT_PRIVACY_LICENSE">개인정보 수집 및 처리 방침</string>
+    <string name="TXT_RESET_PASSWORD_DESCRIPTION">아래 필드에 가입한 E-Mail을 입력하면, 해당 E-Mail로 비밀번호 재설정 메일이 발송됩니다.</string>
+    <string name="TXT_HOME">Home</string>
+    <string name="TXT_BOOK">Book</string>
+    <string name="TXT_MOVIE">Movie</string>
+    <string name="TXT_CULTURE">Culture</string>
+    <string name="TXT_MORE">More</string>
+    <string name="TXT_TOP_3">Top 3</string>
+    <string name="TXT_NO_CONTENTS">사용 가능한 컨텐츠가 없습니다.</string>
+    <string name="TXT_CATEGORIES">전체 카테고리</string>
+    <string name="TXT_CONTINUE_PLAY">계속 플레이하기</string>
+    <string name="TXT_NO_CONTENT_IN_PLAY">플레이 중인 컨텐츠가 없습니다.</string>
+    <string name="TXT_SUMMARY">줄거리</string>
+    <string name="TXT_RECOMMEND">추천</string>
+    <string name="TXT_PLAY">플레이</string>
+    <string name="TXT_CATEGORY">카테고리</string>
+
+    <string-array name="CATEGORIES_BOOK">
+        <item>소설</item>
+        <item>시</item>
+        <item>인문</item>
+        <item>가정</item>
+        <item>요리</item>
+        <item>건강</item>
+        <item>취미</item>
+        <item>자기 계발</item>
+        <item>역사</item>
+        <item>예술</item>
+        <item>과학</item>
+        <item>IT</item>
+        <item>잡지</item>
+    </string-array>
+
+    <string-array name="CATEGORIES_MOVIE">
+        <item>BL</item>
+        <item>SF</item>
+        <item>가족</item>
+        <item>호러</item>
+        <item>군대</item>
+        <item>느와르</item>
+        <item>다큐멘터리</item>
+        <item>애니메이션</item>
+        <item>드라마</item>
+        <item>로맨스</item>
+        <item>모험</item>
+        <item>뮤지컬</item>
+        <item>미스테리</item>
+        <item>범죄</item>
+        <item>서바이벌</item>
+        <item>성인</item>
+        <item>추리</item>
+        <item>스포츠</item>
+        <item>액션</item>
+        <item>역사</item>
+        <item>옴니버스</item>
+        <item>재난</item>
+        <item>전쟁</item>
+        <item>정치</item>
+        <item>종교</item>
+        <item>첩보</item>
+        <item>코미디</item>
+        <item>판타지</item>
+    </string-array>
+
+    <string-array name="CATEGORIES_CULTURE">
+        <item>축제</item>
+        <item>유적</item>
+        <item>레저</item>
+        <item>지역 특화</item>
+    </string-array>
+
+</resources>

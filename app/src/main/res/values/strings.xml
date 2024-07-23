@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">A.MUSE</string>
+    <string name="TXT_ALERT_TITLE_OF_EMPTY_FIELD">Empty Field</string>
+    <string name="TXT_ALERT_MESSAGE_OF_EMPTY_FIELD">Please fill in all the fields.</string>
+    <string name="TXT_ALERT_TITLE_OF_ACCOUNT_DOES_NOT_EXISTS">Non-existent account</string>
+    <string name="TXT_ALERT_MESSAGE_OF_ACCOUNT_DOES_NOT_EXISTS">The account does not exists. Please check the information you entered or the status of your network.</string>
+    <string name="TXT_ALERT_TITLE_OF_INVALID_EMAIL_TYPE">Invalid E-Mail Type</string>
+    <string name="TXT_ALERT_MESSAGE_OF_INVALID_EMAIL_TYPE">Please enter a valid e-mail type.</string>
+    <string name="TXT_ALERT_TITLE_OF_WEAK_PASSWORD">Weak Password</string>
+    <string name="TXT_ALERT_MESSAGE_OF_WEAK_PASSWORD">For security purposes, please enter a password of at least 8 digits.</string>
+    <string name="TXT_ALERT_TITLE_OF_PASSWORD_MISMATCH">Password Mismatch</string>
+    <string name="TXT_ALERT_MESSAGE_OF_PASSWORD_MISMATCH">Password and password verification do not match.</string>
+    <string name="TXT_ALERT_TITLE_OF_LICENSE_NOT_ACCEPTED">Disagree with the Licenses</string>
+    <string name="TXT_ALERT_MESSAGE_OF_LICENSE_NOT_ACCEPTED">Please read and agree to all the licenses.</string>
+    <string name="TXT_ALERT_MESSAGE_OF_SIGN_UP_ERROR">There was an error in the signing up for membership. Please check if you are already signed up for an email, or check your network status and try again.</string>
+    <string name="TXT_ALERT_MESSAGE_OF_SIGN_IN_ERROR">There was an error in the signing in. Please check the email and password, or check the network status and try again.</string>
+    <string name="TXT_ALERT_MESSAGE_OF_SENT_PASSWORD_RESET_MAIL">A password reset email has been sent to the email you entered.</string>
+    <string name="TXT_DONE">Done</string>
+    <string name="TXT_ERROR">Error</string>
+    <string name="TXT_EMAIL">E-Mail</string>
+    <string name="TXT_PASSWORD">Password</string>
+    <string name="TXT_SIGN_IN">Sign In</string>
+    <string name="TXT_RESET_PASSWORD">Reset Password</string>
+    <string name="TXT_SIGN_UP">Sign Up</string>
+    <string name="TXT_PASSWORD_VERIFICATION">Password Verification</string>
+    <string name="TXT_COPYRIGHT_INFORMATION">ⓒ2024 Changjin Ha, Jisoo Park, Hwaram Park.\nAll Rights Reserved.</string>
+    <string name="TXT_NAME">Name</string>
+    <string name="TXT_NICK_NAME">NickName</string>
+    <string name="TXT_PHONE">Phone</string>
+    <string name="TXT_BIRTHDAY">Birthday</string>
+    <string name="TXT_BIRTHDAY_NOT_SELECTED">Select Birthday</string>
+    <string name="TXT_OK">OK</string>
+    <string name="TXT_CANCEL">Cancel</string>
+    <string name="TXT_YES">Yes</string>
+    <string name="TXT_NO">No</string>
+    <string name="TXT_READ">Read</string>
+    <string name="TXT_ACCEPT_EULA">Accept EULA</string>
+    <string name="TXT_ACCEPT_PRIVACY_LICENSE">Accept Privacy License</string>
+    <string name="TXT_RESET_PASSWORD_DESCRIPTION">If you enter the email you signed up for in the field below, we will send you a password reset email.</string>
+    <string name="TXT_HOME">Home</string>
+    <string name="TXT_BOOK">Book</string>
+    <string name="TXT_MOVIE">Movie</string>
+    <string name="TXT_CULTURE">Culture</string>
+    <string name="TXT_MORE">More</string>
+    <string name="TXT_TOP_3">Top 3</string>
+    <string name="TXT_NO_CONTENTS">There is no content yet.</string>
+    <string name="TXT_CATEGORIES">Categories</string>
+    <string name="TXT_CONTINUE_PLAY">Continue Play</string>
+    <string name="TXT_NO_CONTENT_IN_PLAY">No content in play</string>
+    <string name="TXT_SUMMARY">Summary</string>
+    <string name="TXT_RECOMMEND">Recommend</string>
+    <string name="TXT_PLAY">Play</string>
+    <string name="TXT_CATEGORY">Category</string>
+    <string name="TXT_CREATE_CONTENTS_YOUR_SELF">Create Contents Yourself</string>
+    <string name="TXT_ETC">ETC</string>
+    <string name="TXT_INFO">About A.MUSE</string>
+
+    <string-array name="CATEGORIES_BOOK">
+        <item>Novel</item>
+        <item>Poem</item>
+        <item>Humanities</item>
+        <item>Home</item>
+        <item>Cook</item>
+        <item>Health</item>
+        <item>Hobby</item>
+        <item>Self-development</item>
+        <item>History</item>
+        <item>Art</item>
+        <item>Science</item>
+        <item>IT</item>
+        <item>Magazine</item>
+    </string-array>
+
+    <string-array name="CATEGORIES_MOVIE">
+        <item>BL</item>
+        <item>SF</item>
+        <item>Family</item>
+        <item>Horror</item>
+        <item>Army</item>
+        <item>Noir</item>
+        <item>Documentary</item>
+        <item>Animation</item>
+        <item>Drama</item>
+        <item>Romance</item>
+        <item>Adventure</item>
+        <item>Musical</item>
+        <item>Mystery</item>
+        <item>Crime</item>
+        <item>Survival</item>
+        <item>Adult</item>
+        <item>Reasoning</item>
+        <item>Sports</item>
+        <item>Action</item>
+        <item>History</item>
+        <item>Omnibus</item>
+        <item>Calamity</item>
+        <item>War</item>
+        <item>Politics</item>
+        <item>Religion</item>
+        <item>Intelligence</item>
+        <item>Comedy</item>
+        <item>Fantasy</item>
+    </string-array>
+
+    <string-array name="CATEGORIES_CULTURE">
+        <item>Festival</item>
+        <item>Remains</item>
+        <item>Leisure</item>
+        <item>Specialization</item>
+    </string-array>
+
+</resources>
